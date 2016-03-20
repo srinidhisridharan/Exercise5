@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">dbapp</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_insert">insert</string>
+    <string name="title_activity_retrieve">retrieve</string>
+    <string name="title_activity_update">update</string>
+</resources>
